@@ -1,7 +1,7 @@
 # SlimPix – Offline image compressor for macOS  
 **Compress images effortlessly with high-quality results – no internet required!**  
 
-![SlimPix Banner](https://via.placeholder.com/800x300?text=SlimPix+-+Offline+Image+Compression)  
+
 
 ---
 
