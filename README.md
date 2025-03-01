@@ -41,7 +41,7 @@
 ---
 
 ## 🏆 Why SlimPix?  
-- Unlike TinyPNG, **SlimPix is 100% offline** and respects your privacy.  
+- Unlike other compressors, **SlimPix is 100% offline** and respects your privacy.  
 - Blazing-fast image compression with **no need for internet access**.  
 - Lightweight, beautiful, and optimized for **macOS Sonoma and beyond**.  
 
